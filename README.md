@@ -1,4 +1,6 @@
-# artificial-things
-Student-contributed alternate CSS and JS coding for an excerpt from "The Design of Everyday Things," a book by Donald Norman.
+# All artificial things are designed
+Student-contributed alternate CSS+JS codings for an excerpt from Chapter 1 of "The Design of Everyday Things," the book by Donald Norman.
 
-Students: see the assignment in Canvas for what to do with this.
+View current exhibits at https://tordevries.github.io/artificial-things/.
+
+Students: see the assignment in Canvas for how to contribute.
