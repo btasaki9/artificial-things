@@ -24,4 +24,6 @@ export function initializePage() {
 
     newArticle.append(header, main, footer);
 
+    
+
 }
